@@ -1,0 +1,13 @@
+{
+  "name": "resnet50_224",
+  "architecture": "resnet50",
+  "image_size": 224,
+  "head_val_accuracy": 0.97265625,
+  "val_accuracy": 0.984375,
+  "val_loss": 0.053609609603881836,
+  "training_seconds": 90.15629896099927,
+  "head_epochs": 3,
+  "fine_tune_epochs": 2,
+  "parameters": 23850242,
+  "checkpoint": "/media/ra-naun/Omega/Old Soldier Backup/F/my/univer/univer_9_semestr/системы_искуственного_интелекта/Task_01/results/resnet50_224/best.weights.h5"
+}

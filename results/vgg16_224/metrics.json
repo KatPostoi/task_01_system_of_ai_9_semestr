@@ -1,0 +1,13 @@
+{
+  "name": "vgg16_224",
+  "architecture": "vgg16",
+  "image_size": 224,
+  "head_val_accuracy": 0.98046875,
+  "val_accuracy": 0.98046875,
+  "val_loss": 0.06935744732618332,
+  "training_seconds": 149.85375747399848,
+  "head_epochs": 3,
+  "fine_tune_epochs": 2,
+  "parameters": 14780610,
+  "checkpoint": "/media/ra-naun/Omega/Old Soldier Backup/F/my/univer/univer_9_semestr/системы_искуственного_интелекта/Task_01/results/vgg16_224/best.weights.h5"
+}
